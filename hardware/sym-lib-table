@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name stormmcu-rescue)(type Legacy)(uri ${KIPRJMOD}/stormmcu-rescue.lib)(options "")(descr ""))
-)
